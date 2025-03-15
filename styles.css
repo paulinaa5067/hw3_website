@@ -6,7 +6,7 @@ body {
 }
 
 .navbar {
-    background-color: #333;
+    background-color: darkgray;
     overflow: hidden;
     padding: 10px 0;
     text-align: center;
@@ -20,20 +20,20 @@ body {
 }
 
 .navbar a:hover {
-    background-color: #575757;
+    background-color: blue ;
 }
 
 .container {
     width: 80%;
     margin: auto;
     overflow: hidden;
-    background: white;
+    background: purple;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 
 h1, h2 {
-    color: #333;
+    color: #black;
 }
 
 img {
@@ -46,7 +46,7 @@ img {
 footer {
     text-align: center;
     padding: 10px;
-    background: #333;
+    background: gray;
     color: white;
     margin-top: 20px;
 }
